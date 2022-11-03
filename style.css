@@ -1,0 +1,35 @@
+body {
+background: #F4A460;
+}
+#logo.jpeg {
+width: 100%;
+}
+em {
+color: SaddleBrown;
+}
+
+h1{
+text-align:center;
+}
+
+P{
+text-align: center;
+}
+
+h2{
+text-align: center;
+}
+
+ul{display: inline-block;
+vertical-align: top;
+width: 20%;
+margin-right: 15%;
+}
+
+.valor{
+background: Peru;
+}
+
+.título-principal{
+padding-left: 20px;
+}
